@@ -1,8 +1,3 @@
-resume
-======
-
-[View it here](http://nuterian.github.com/resume/)
-
-Print the page as PDF to get a copy.
-
-
+=======
+# Resume/CV
+My web resume complete with rules for print http://jayanoris.com/resume
